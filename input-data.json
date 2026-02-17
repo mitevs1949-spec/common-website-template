@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "getting-started-with-web-development",
+    "title": "Getting Started with Web Development in 2024",
+    "author": "Jane Doe",
+    "date": "2024-03-15",
+    "content": "<h2>Introduction</h2><p>Web development is an ever-evolving field. In this post, we'll explore the basics of HTML, CSS, and JavaScript, and how they work together to create modern websites.</p><h3>The Trio</h3><ul><li><strong>HTML</strong>: The structure of the web.</li><li><strong>CSS</strong>: The style and layout.</li><li><strong>JavaScript</strong>: The interactivity and logic.</li></ul><p>Stay tuned for more updates!</p>",
+    "excerpt": "Learn the basics of HTML, CSS, and JavaScript in this comprehensive guide for beginners.",
+    "tags": [
+      "Web Development",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "readTime": "5 min read"
+  },
+  {
+    "slug": "optimizing-performance",
+    "title": "Optimizing Website Performance for Better SEO",
+    "author": "John Smith",
+    "date": "2024-03-10",
+    "content": "<h2>Why Performance Matters</h2><p>Website speed is a crucial factor for both user experience and search engine ranking. Core Web Vitals are now a ranking signal for Google.</p><h3>Key Tips</h3><ol><li>Optimize images (WebP format).</li><li>Minify CSS and JS.</li><li>Use browser caching.</li></ol><p>Implementing these changes can significantly boost your site's visibility.</p>",
+    "excerpt": "Discover effective strategies to speed up your website and improve your search engine rankings.",
+    "tags": [
+      "SEO",
+      "Performance",
+      "Optimization"
+    ],
+    "readTime": "7 min read",
+    "coverImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "slug": "future-of-ai",
+    "title": "The Future of AI in Software Engineering",
+    "author": "Alice Johnson",
+    "date": "2024-02-28",
+    "content": "<h2>AI as a Copilot</h2><p>Artificial Intelligence is transforming how we write code. Tools like GitHub Copilot and ChatGPT are becoming essential for developers.</p><blockquote>AI won't replace developers, but developers using AI will replace those who don't.</blockquote><h3>Impact areas</h3><ul><li>Code generation</li><li>Bug detection</li><li>Automated testing</li></ul>",
+    "excerpt": "Explore how AI tools are reshaping the software engineering landscape and what it means for developers.",
+    "tags": [
+      "AI",
+      "Technology",
+      "Future"
+    ],
+    "readTime": "4 min read",
+    "coverImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+  }
+]
